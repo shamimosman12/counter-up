@@ -1,2 +1,2 @@
 # counter-up
-j-query plugin
+https://shamimosman12.github.io/counter-up/
